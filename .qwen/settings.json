@@ -1,0 +1,8 @@
+{
+  "qwen.model": "ollama/qwen2.5-coder:7b",
+  "qwen.model.ollama": {
+    "endpoint": "http://127.0.0.1:11434",
+    "model": "qwen2.5-coder:7b"
+  },
+  "$version": 3
+}
